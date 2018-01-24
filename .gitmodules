@@ -1,0 +1,3 @@
+[submodule "plugins/pyenv-virtualenv"]
+	path = plugins/pyenv-virtualenv
+	url = git@github.com:srvg/pyenv-virtualenv.git
