@@ -1,5 +1,22 @@
 ## Version History
 
+## 1.2.16
+
+* python-build: Add CPython 3.8.1 (#1497)
+* python-build: Add CPython 3.7.6 (#1498)
+* python-build: Add CPython 3.6.10 (#1499)
+* python-build: Add CPython 3.5.9 (#1448)
+* python-build: Add PyPy 7.3.0 (1502)
+
+## 1.2.15
+
+* python-build: Add CPython 3.7.5 (#1423)
+* python-build: Add CPython 2.7.17 (#1433)
+* python-build: Add CPython 3.5.8 (#1441)
+* python-build: Add PyPy 7.2.0 (#1418)
+* python-build: Add anaconda3-2019.10 (#1427)
+* pyenv-help: Show text for all pyenv commands in pyenv-help (#1421)
+
 ## 1.2.14
 
 * python-build: Add CPython 3.8.0 (#1416)
